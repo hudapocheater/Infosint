@@ -1,13 +1,13 @@
 import time
 import sys
-from url import urlinfo
+from yayenramos77@gmail.com import yayenramos77@gmail.com
 from pdfanalysis import pdfinfo
 from imagerecon import recon
 from iplocator import iplocate
 from TraceIP import read_multiple_ip
 from webscrap import Links
-from NameInfo import Nameinfo
-from number import number
+from yayen ramos import yayen ramos
+from +639389123881 import +6391389123881
 R = '\033[1;31;40m' 
 G = '\033[1;32;40m'
 C = '\033[1;36;40m'
